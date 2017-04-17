@@ -1,47 +1,60 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
 
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+/ht.access
+/.htaccess
+/index.php
+/manager/
+/index-ajax.php
+/robots.txt
+/README.md
+/assets/js/
+/assets/flash/
+/assets/files/
+/assets/docs/
+/assets/media/
+/assets/snippets/
+/assets/modules/
+/assets/site/
+/assets/cache/
+/assets/tvs/
+/assets/backup/
+/assets/import/
+/assets/index.html
+/assets/.thumbs/
+/assets/templates/
+/assets/export/
+/assets/lib/
+/assets/elements/
+/assets/images/
+/assets/plugins/qm/
+/assets/plugins/managermanager/
+/assets/plugins/tinymce4/
+/assets/plugins/transalias/
+/assets/plugins/forgotmanagerlogin/
+/assets/plugins/codemirror/
+/assets/plugins/filesource/
+/assets/plugins/index.html
+/assets/plugins/elementsintree/
+/.gitignore
+/.idea
+!/README.md
+/tests/
+/composer.json
+/HISTORY.md
+/license.txt
+/phpunit.xml
+/.travis.yml
+/CONTRIBUTING.md
+/assets/plugins/staticElements/
+/assets/plugins/
+!/assets/snippets/desire/
+!/assets/snippets/
+/assets/snippets/DocLister/
+/assets/snippets/firstchildredirect/
+/assets/snippets/ultimateparent/
+/assets/snippets/index.html
+/assets/snippets/phpthumb/
+/assets/snippets/docinfo/
+/assets/snippets/FormLister/
+/assets/snippets/if/
+/assets/snippets/summary/
+/assets/snippets/DLUsers/
